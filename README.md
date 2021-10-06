@@ -1,7 +1,7 @@
-# mongodb_mongoexpress_docker
+# Descrição
 Conteineres docker com mongodb e mongo-express
 
-## executando
+## Executando
 Para subir os conteineres será necessário criar um arquivo .env com as seguintes variáveis:
 
 
